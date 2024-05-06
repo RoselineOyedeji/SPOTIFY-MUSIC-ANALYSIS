@@ -1,7 +1,7 @@
 
 # Spotify Musis Analysis
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYzBiY2E5YjEtYjU2OS00ZDYwLWIyOWItY2M5Yzk1N2NiZGE5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=fc8b5271-82e3-4931-88b8-aa884ceb0286&autoAuth=true&ctid=62b9ccda-6405-4641-97a4-979801428be7
 
 ## Insights
 
