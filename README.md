@@ -79,7 +79,8 @@ To get Growth Bar
 
 Snap of the dashboard
 
-![Spotify](https://github.com/RoselineOyedeji/SPOTIFY-MUSIC-ANALYSIS/assets/161141258/b119e026-b7de-4392-8d93-ee783b8c00e5)
+![Spotify](https://github.com/RoselineOyedeji/SPOTIFY-MUSIC-ANALYSIS/assets/161141258/5fdd4acc-ec1f-4a8b-bba7-f029d0896abe)
+
 
 
 
