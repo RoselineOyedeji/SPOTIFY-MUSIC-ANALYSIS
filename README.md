@@ -1,8 +1,6 @@
 
 # Spotify Musis Analysis
 
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiMjdhM2MzOTktYmM4NS00YTgyLThmZmItMmU0NGEwM2ZkZDcwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
-
 ## Insights
 
 This dashboard helps users understand streaming behaviour of people. It helps users know the streams of a track by an artist and the most streamed tracks.Users get to know the artist who is likely favoured by streams on the platform.
